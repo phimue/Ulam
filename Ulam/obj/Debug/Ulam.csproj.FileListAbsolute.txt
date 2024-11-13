@@ -1,0 +1,7 @@
+C:\Users\z0050udj\source\repos\Ulam\Ulam\bin\Debug\Ulam.exe.config
+C:\Users\z0050udj\source\repos\Ulam\Ulam\bin\Debug\Ulam.exe
+C:\Users\z0050udj\source\repos\Ulam\Ulam\bin\Debug\Ulam.pdb
+C:\Users\z0050udj\source\repos\Ulam\Ulam\obj\Debug\Ulam.csproj.AssemblyReference.cache
+C:\Users\z0050udj\source\repos\Ulam\Ulam\obj\Debug\Ulam.csproj.CoreCompileInputs.cache
+C:\Users\z0050udj\source\repos\Ulam\Ulam\obj\Debug\Ulam.exe
+C:\Users\z0050udj\source\repos\Ulam\Ulam\obj\Debug\Ulam.pdb
